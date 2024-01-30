@@ -2,5 +2,7 @@
     <string name="app_name">grid layout imagenes</string>
     <string name="fietasFallas">fiestas fallas</string>
     <string name="monumentosvalencia">monumentosValencia</string>
+    <string name="fallas" />
+    <string name="ociovalencia" />
 
 </resources>
